@@ -1,0 +1,9 @@
+@media (max-width: 991px) {
+  
+      .Card_change.card {
+      z-index: 10;
+      right: unset;
+      top: unset;
+    }
+  
+}
